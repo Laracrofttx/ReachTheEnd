@@ -1,3 +1,6 @@
 # ReachTheEnd
 
-Built with C#, Unity
+#Simple unity game 
+
+#Built with
+- C#, Unity
