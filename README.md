@@ -2,4 +2,4 @@
 
 # Simple Unity Game 
 
-# Built with: # C#, # Unity
+# Built with: C#, Unity
